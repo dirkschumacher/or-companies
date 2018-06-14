@@ -18,6 +18,7 @@ This list is mainly for job seekers, so these companies should be big enough to 
 * [Deutsche Bahn](https://deutschebahn.com)
 * [Init](https://www.initse.com/dede/home.html)
 * [Lufthansa Systems](https://www.lhsystems.com/)
+* [IVU Traffic Technologies](https://www.ivu.de/)
 
 ## Consultancies
 
