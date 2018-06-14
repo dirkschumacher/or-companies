@@ -1,6 +1,6 @@
 # Operations Research Companies
 
-**Scope: companies that hire developers particular to work on combinatorial problems (e.g. integer programming, constraint satisfaction problems, etc.)**
+**Scope: companies that hire developers particular to work on combinatorial problems (e.g. integer programming, constraint satisfaction problems, etc.) or solution methods/services**
 This list is mainly for job seekers, so these companies should be big enough to hire people.
 
 ## Solver developers
