@@ -15,6 +15,7 @@ This list is mainly for job seekers, so these companies should be big enough to 
 ## Tech. companies
 
 * [Google](https://developers.google.com/optimization/)
+    * [OR at Google](https://www.informs.org/ORMS-Today/Public-Articles/December-Volume-43-Number-6/Roundtable-Profile-Operations-research-at-Google)
 
 ## Transport companies
 
