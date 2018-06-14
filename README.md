@@ -17,11 +17,13 @@ This list is mainly for job seekers, so these companies should be big enough to 
 
 * [Deutsche Bahn](https://deutschebahn.com)
 * [Init](https://www.initse.com/dede/home.html)
+* [Lufthansa Systems](https://www.lhsystems.com/)
 
 ## Consultancies
 
 * [ORCOMONY](http://www.orconomy.com/)
 * [satalia](https://www.satalia.com/)
+* [McKinsey & Company](https://www.mckinsey.com/)
 
 ## Retail
 
