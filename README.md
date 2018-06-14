@@ -1,4 +1,4 @@
-# Operations Research companies
+# Operations Research Companies
 This is a list of companies applying/developing OR methods. By OR, I mainly mean traditional optimization/constraint approaches.
 This list is mainly for job seekers, so these companies should be big enough to hire people.
 
