@@ -21,14 +21,16 @@ This list is mainly for job seekers, so these companies should be big enough to 
 * [Init](https://www.initse.com/dede/home.html)
 * [Lufthansa Systems](https://www.lhsystems.com/)
 * [IVU Traffic Technologies](https://www.ivu.de/)
-* [Graphhopper](https://www.graphhopper.com/products/)
+* [Graphhopper](https://www.graphhopper.com/)
+    * [Vehicle Routing](https://www.graphhopper.com/products/)
 
 ## Consultancies
 
 * [ORCOMONY](http://www.orconomy.com/)
-* [satalia](https://www.satalia.com/)
+* [Satalia](https://www.satalia.com/)
 * [McKinsey & Company](https://www.mckinsey.com/)
 
 ## Retail
 
 * [Zalando](https://jobs.zalando.com/tech/)
+    * Price Optimizations, Warehouse Order Picking
