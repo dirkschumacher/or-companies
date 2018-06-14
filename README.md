@@ -1,5 +1,6 @@
 # Operations Research Companies
-This is a list of companies applying/developing OR methods. By OR, I mainly mean traditional optimization/constraint approaches.
+
+**Scope: companies that hire developers particular to work on combinatorial problems (e.g. integer programming, constraint satisfaction problems, etc.)**
 This list is mainly for job seekers, so these companies should be big enough to hire people.
 
 ## Solver developers
