@@ -10,6 +10,7 @@ This list is mainly for job seekers, so these companies should be big enough to 
 * [Mosek](http://www.mosek.com/)
 * [IBM](https://www.ibm.com/analytics/data-science/prescriptive-analytics/cplex-optimizer)
 * [Localsolver](http://www.localsolver.com/)
+* [SAS](https://www.sas.com/en_us/software/optimization.html)
 
 ## Tech. companies
 
