@@ -16,6 +16,7 @@ This list is mainly for job seekers, so these companies should be big enough to 
 ## Transport companies
 
 * [Deutsche Bahn](https://deutschebahn.com)
+* [Init](https://www.initse.com/dede/home.html)
 
 ## Consultancies
 
