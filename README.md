@@ -20,6 +20,7 @@ This list is mainly for job seekers, so these companies should be big enough to 
 ## Consultancies
 
 * [ORCOMONY](http://www.orconomy.com/)
+* [satalia](https://www.satalia.com/)
 
 ## Retail
 
