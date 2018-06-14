@@ -19,6 +19,7 @@ This list is mainly for job seekers, so these companies should be big enough to 
 * [Init](https://www.initse.com/dede/home.html)
 * [Lufthansa Systems](https://www.lhsystems.com/)
 * [IVU Traffic Technologies](https://www.ivu.de/)
+* [Graphhopper](https://www.graphhopper.com/products/)
 
 ## Consultancies
 
